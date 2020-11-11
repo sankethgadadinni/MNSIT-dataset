@@ -1,2 +1,2 @@
-# Pytorch
-NeuralNetworks
+# MNIST dataset 
+Logistic NeuralNetworks
